@@ -621,7 +621,7 @@ form {
 
     .contact-form{
         display: grid;
-        grid-template-columns: 2fr 1fr;
+        /* grid-template-columns: 2fr 1fr; */
     }
     .box-info{
         display: flex;
